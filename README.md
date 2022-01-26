@@ -15,6 +15,7 @@ Then, we need do following analysis:
 
 ## Resources
 Data Resource: schools_complete.csv and students_complete.csv
+
 Software: PythonData environment in Jupyter Notebook
 
 ## Results
