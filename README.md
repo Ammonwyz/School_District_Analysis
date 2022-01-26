@@ -24,6 +24,11 @@ Software: PythonData environment in Jupyter Notebook
 % Overall Passing decreased from 65.17% to 64.9%
 
 *How is the school summary affected?
+![School_Summary](https://user-images.githubusercontent.com/95401877/151116480-856e062a-9c7d-4dfd-8b24-c5387aa72112.png)
+![School_Summary_New](https://user-images.githubusercontent.com/95401877/151116494-1a04513e-0843-4e60-be3f-3e111b984e6e.png)
+![School_Summary_10-12](https://user-images.githubusercontent.com/95401877/151116540-cdb8d984-9479-4cca-9b38-582c322afeb2.png)
+
+
 The original summary are  93.272171% passing math,	97.308869% passing reading and	90.948012% overall passing.
 1) Only change 9th grade to Nan, the school summary of Thomas became to 66.911315% passing in math,	69.663609% passing in reading, and 65.076453% in overall.
 2) Replace the number of Thomas by the percentage of 10th-12th grade students, then the passing percentage will back to 93.185690% ,	97.018739% , and	90.630324%.
@@ -35,19 +40,19 @@ There is no affect Thomas High School's performance relative to the other school
 
 *How does replacing the ninth-grade scores affect the following:
 
-**Math and reading scores by grade
+  - Math and reading scores by grade
 
 Thomas's Math and reading scores became to Nan.
 
-**Scores by school spending
+  - Scores by school spending
 
 The scores by school spending between $630 and $644 has changed. They became to 78.502002, 81.636261, 73.462589, 84.319261	and 62.778233.
 
-**Scores by school size
+  - Scores by school size
 
 No changes
 
-**Scores by school type
+  - Scores by school type
 
 No changes
 
